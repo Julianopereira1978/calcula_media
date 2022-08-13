@@ -5,6 +5,7 @@
 Created on Sat Aug 13 19:13:36 2022
 @author: Juliano
 """
+
 import os
 
 nota1 = float(input('Informe a primeira nota: '))
